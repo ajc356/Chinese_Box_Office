@@ -1,1 +1,1 @@
-# Chinese Box Office
+# Explaining Chinese Box Office Success
