@@ -45,8 +45,7 @@ Again after experimenting with a number of different models, I ultimately found 
 
 We see a really interesting paradox in the data:
 
-The strongest indicator of a film’s success in China was ultimately whether or not it was released only in China (with no international distribution) and this is highly correlated with negative film performance – ie if a film is only released in China it is unlikely to generate much revenue. Yet at the same time, if a film is a Chinese production that is strongly and positively correlated with a film performing well.
-
+The strongest indicator of a film’s success in China was ultimately whether or not it was released only in China (with no international distribution) and this is highly correlated with negative film performance – i.e. if a film is only released in China it is unlikely to generate much revenue. Yet at the same time, if a film is a Chinese production that is strongly and positively correlated with a film performing well.
 As for which genres bring the most money these include Animation, Fantasy and Action. By contrast, the worst performing genres include Documentary and Drama. 
 
 **Future Work** 
