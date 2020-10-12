@@ -1,7 +1,7 @@
 # Film Success in China 
-Amanda Cheney
-Metis Project 2
-October 12, 2020
+Amanda Cheney  
+Metis Project 2  
+October 12, 2020  
 
 **Motivation**
 
