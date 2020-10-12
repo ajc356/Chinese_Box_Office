@@ -9,7 +9,7 @@ More Chinese are flocking to theaters than ever before. In the past twenty years
 
 
 
-In February 2019, the director of China’s National Film Bureau, called on China to become a “strong film power” on par with the US by 2035. 
+In February 2019, the director of China’s National Film Bureau, called on China to become a [“strong film power”](https://variety.com/2019/film/news/china-strong-film-power-by-2035-wants-more-patriotic-films-1203153901/) on par with the US by 2035. 
 He outlined revenue targets for China to annually produce 100 movies that would each earn more than \$15 million. Yet in 2019 only [46 Chinese films](http://epaper.ynet.com/html/2020-01/02/content_346077.htm?div=-1) earned more than \$15 million. 
 
 In this project, I propose that before China can fulfill its ambitions to become a “strong film power”, it is necessary to take a closer look at what’s going on in the domestic Chinese market. Therefore the question that I have set out to investigate is: What explains the success of films in the Chinese market?
