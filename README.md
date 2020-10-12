@@ -38,7 +38,7 @@ And again, my target is Chinese gross revenue.
 
 Again after experimenting with a number of different models, I ultimately found Lasso to be the best – although Lasso and regular linear regression scored very similarly (nearly identical r-squared), when I ran k-fold cross validation, Lasso ultimately produced a marginally better r-squared such that my model is able to explain 31% of the variation observed in the data. 
 
-**Conclusions/ Implications ** 
+**Conclusions/Implications** 
 
 We see a really interesting paradox in the data:
 
@@ -53,7 +53,7 @@ This project was a first cut at understanding the Chinese film market, however t
 
 In addition to continuing to improve my model by making optimal use of existing data, we would be able to gain even better insights by working with more and better data
 
--	Because so many films were missing IMDB data about key things like budget, current features are limited
--	One avenue that would be really exciting to explore would be Chinese sources of data as I am not confident that either BoxOfficeMojo or IMDB have a comprehensive account of the full population of Chinese films 
+-	Because so many films were missing IMDB data about key things like budget, current features are limited  
+-	One avenue that would be really exciting to explore would be Chinese sources of data as I am not confident that either BoxOfficeMojo or IMDB have a comprehensive account of the full population of Chinese films  
 
 Additionally another promising area for future research would be to dig into the success of Chinese films in international markets – something that will no doubt become more important as China continues to chart its course to becoming a strong film power on par with the US
