@@ -35,14 +35,13 @@ After experimenting with several different models I ended up dropping a number o
 •	Chinese production  
 •	Runtime  
 •	Length of Release Period  
-•	Genres:  
-o	Action, Adventure, Animation,  Comedy, Crime, Documentary, Drama, Fantasy, Thriller
+•	Genres: Action, Adventure, Animation,  Comedy, Crime, Documentary, Drama, Fantasy, Thriller
 
 And again, my target is Chinese gross revenue.
 
 **Results** 
 
-Again after experimenting with a number of different models, I ultimately found Lasso to be the best – although Lasso and regular linear regression scored very similarly (nearly identical r-squared), when I ran k-fold cross validation, Lasso ultimately produced a marginally better r-squared such that my model is able to explain 31% of the variation observed in the data. 
+Again after experimenting with a number of different models, I ultimately found Lasso to be the best – although Lasso and regular linear regression scored very similarly (nearly identical r-squared), when I ran k-fold cross validation, Lasso ultimately produced a marginally better r-squared such that when scored on unseen, holdout test data, my model is able to explain 37% of the variation observed in the data. 
 
 **Conclusions/Implications** 
 
