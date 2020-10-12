@@ -38,7 +38,7 @@ After experimenting with several different models I ended up dropping a number o
 •	Length of Release Period  
 •	Genres: Action, Adventure, Animation,  Comedy, Crime, Documentary, Drama, Fantasy, Thriller
 
-And again, my target is Chinese gross revenue.
+My target is Chinese gross revenue.
 
 **Results** 
 
