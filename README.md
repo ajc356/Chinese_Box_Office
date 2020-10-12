@@ -18,6 +18,9 @@ In this project, I propose that before China can fulfill its ambitions to become
 
 What explains the success of films in the Chinese market?
 
+**Objective**  
+Build a regression model to explain the success of films in the Chinese market. 
+
 **Methods** 
 
 To begin my analysis, I first had to determine the population of films released in the Chinese market. To do this I used Beautiful Soup to scrape the [Box Office Mojo](https://www.boxofficemojo.com/weekend/by-year/2019/?area=CN) website for films released in China for all complete available years which included 2016-2019. 
