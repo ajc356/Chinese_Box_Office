@@ -19,16 +19,16 @@ What explains the success of films in the Chinese market?
 
 To begin my analysis, I first had to determine the population of films released in the Chinese market. To do this I used Beautiful Soup to scrape the Box Office Mojo website for films released in China for all complete available years which included 2016-2019. 
 
-This gave me a list of 1086 titles with complete entries (a good number missing genre information) – however the extent of data Box Office Mojo offers for each title is somewhat limited,  so from here I turned to a preexisting [Kaggle IMDB dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv) to see if I could glean some additional features. 
+This gave me a list of 1086 titles with complete entries – however the extent of data Box Office Mojo offers for each title is somewhat limited,  so from here I turned to a preexisting [Kaggle IMDB dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv) to see if I could glean some additional features. 
 
 **Model** 
 
 After experimenting with several different models I ended up dropping a number of the genre features and limiting my analysis to:  
-•	USA gross revenue
-•	Released only in China
-•	Chinese production
-•	Runtime
-•	Length of Release Period
+•	USA gross revenue  
+•	Released only in China  
+•	Chinese production  
+•	Runtime  
+•	Length of Release Period  
 •	Genres:  
 o	Action, Adventure, Animation,  Comedy, Crime, Documentary, Drama, Fantasy, Thriller
 
