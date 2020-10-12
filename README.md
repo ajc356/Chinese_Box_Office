@@ -45,14 +45,13 @@ Again after experimenting with a number of different models, I ultimately found 
 
 We see a really interesting paradox in the data:
 
-The strongest indicator of a film’s success in China was ultimately whether or not it was released only in China (with no intl distribution) and this is highly correlated with negative film performance – ie if a film is only released in China it is unlikely to generate much revenue. Yet at the same time, if a film is a Chinese production that is strongly and positively correlated with a film performing well
+The strongest indicator of a film’s success in China was ultimately whether or not it was released only in China (with no international distribution) and this is highly correlated with negative film performance – ie if a film is only released in China it is unlikely to generate much revenue. Yet at the same time, if a film is a Chinese production that is strongly and positively correlated with a film performing well.
 
-As for which genres bring the most money these include : Animation, Fantasy, Action.   
-While the worst performing genres include: Documentary, Drama. 
+As for which genres bring the most money these include Animation, Fantasy and Action. By contrast, the worst performing genres include Documentary and Drama. 
 
 **Future Work** 
 
-This project was a first cut at understanding the Chinese film market, however there’s additional work that could be done going forward
+This project was a first cut at understanding the Chinese film market, however there’s additional work that could be done going forward. 
 
 In addition to continuing to improve my model by making optimal use of existing data, we would be able to gain even better insights by working with more and better data because so many films are missing IMDB data about key things like budget, current features are limited. One avenue that would be really exciting to explore would be Chinese sources of data as I am not confident that either BoxOfficeMojo or IMDB have a comprehensive account of the full population of Chinese films. 
-Additionally another promising area for future research would be to dig into the success of Chinese films in international markets – something that will no doubt become more important as China continues to chart its course to becoming a strong film power on par with the US
+Additionally another promising area for future research would be to dig into the success of Chinese films in international markets – something that will no doubt become more important as China continues to chart its course to becoming a strong film power on par with the US.
