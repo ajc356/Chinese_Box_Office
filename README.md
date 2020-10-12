@@ -19,6 +19,7 @@ In this project, I propose that before China can fulfill its ambitions to become
 What explains the success of films in the Chinese market?
 
 **Objective**  
+
 Build a regression model to explain the success of films in the Chinese market. 
 
 **Methods** 
