@@ -17,7 +17,7 @@ What explains the success of films in the Chinese market?
 
 **Methods** 
 
-To begin my analysis, I first had to determine the population of films released in the Chinese market. To do this I used Beautiful Soup to scrape the Box Office Mojo website for films released in China for all complete available years which included 2016-2019. 
+To begin my analysis, I first had to determine the population of films released in the Chinese market. To do this I used Beautiful Soup to scrape the [Box Office Mojo](https://www.boxofficemojo.com/weekend/by-year/2019/?area=CN) website for films released in China for all complete available years which included 2016-2019. 
 
 This gave me a list of 1086 titles with complete entries – however the extent of data Box Office Mojo offers for each title is somewhat limited,  so from here I turned to a preexisting [Kaggle IMDB dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv) to see if I could glean some additional features. 
 
@@ -51,9 +51,5 @@ While the worst performing genres include: Documentary, Drama.
 
 This project was a first cut at understanding the Chinese film market, however there’s additional work that could be done going forward
 
-In addition to continuing to improve my model by making optimal use of existing data, we would be able to gain even better insights by working with more and better data
-
--	Because so many films were missing IMDB data about key things like budget, current features are limited  
--	One avenue that would be really exciting to explore would be Chinese sources of data as I am not confident that either BoxOfficeMojo or IMDB have a comprehensive account of the full population of Chinese films  
-
+In addition to continuing to improve my model by making optimal use of existing data, we would be able to gain even better insights by working with more and better data because so many films are missing IMDB data about key things like budget, current features are limited. One avenue that would be really exciting to explore would be Chinese sources of data as I am not confident that either BoxOfficeMojo or IMDB have a comprehensive account of the full population of Chinese films. 
 Additionally another promising area for future research would be to dig into the success of Chinese films in international markets – something that will no doubt become more important as China continues to chart its course to becoming a strong film power on par with the US
