@@ -2,7 +2,7 @@
 
 **Motivation**
 
-More Chinese are flocking to theaters than ever before. In the past twenty years the Chinese box office grew from \$1 billion USD in annual sales to nearly \$10 billion USD] (https://chinapower.csis.org/chinese-films/#easy-footnote-bottom-2-4228). 
+More Chinese are flocking to theaters than ever before. In the past twenty years the Chinese box office grew from \$1 billion USD in annual sales to nearly [\$10 billion USD] (https://chinapower.csis.org/chinese-films/#easy-footnote-bottom-2-4228). 
 
 
 
