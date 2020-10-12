@@ -2,12 +2,12 @@
 
 **Motivation**
 
-More Chinese are flocking to theaters than ever before. In the past twenty years the Chinese box office grew from \$1 billion USD in annual sales to nearly [\$10 billion USD] (https://chinapower.csis.org/chinese-films/#easy-footnote-bottom-2-4228). 
+More Chinese are flocking to theaters than ever before. In the past twenty years the Chinese box office grew from \$1 billion USD in annual sales to nearly [\$10 billion USD](https://chinapower.csis.org/chinese-films/#easy-footnote-bottom-2-4228). 
 
 
 
 In February 2019, the director of China’s National Film Bureau, called on China to become a “strong film power” on par with the US by 2035. 
-He outlined revenue targets for China to annually produce 100 movies that would each earn more than \$15 million. Yet in 2019 only [46 Chinese films] (http://epaper.ynet.com/html/2020-01/02/content_346077.htm?div=-1)earned more than \$15 million. 
+He outlined revenue targets for China to annually produce 100 movies that would each earn more than \$15 million. Yet in 2019 only [46 Chinese films](http://epaper.ynet.com/html/2020-01/02/content_346077.htm?div=-1) earned more than \$15 million. 
 
 In this project, I propose that before China can fulfill its ambitions to become a “strong film power”, it is necessary to take a closer look at what’s going on in the domestic Chinese market. Therefore the question that I have set out to investigate is: What explains the success of films in the Chinese market?
 
@@ -19,7 +19,7 @@ What explains the success of films in the Chinese market?
 
 To begin my analysis, I first had to determine the population of films released in the Chinese market. To do this I used Beautiful Soup to scrape the Box Office Mojo website for films released in China for all complete available years which included 2016-2019. 
 
-This gave me a list of 1086 titles with complete entries (a good number missing genre information) – however the extent of data Box Office Mojo offers for each title is somewhat limited,  so from here I turned to a preexisting Kaggle IMDB dataset to see if I could glean some additional features. 
+This gave me a list of 1086 titles with complete entries (a good number missing genre information) – however the extent of data Box Office Mojo offers for each title is somewhat limited,  so from here I turned to a preexisting [Kaggle IMDB dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv) to see if I could glean some additional features. 
 
 Most importantly I wanted to see if I could find a way to filter out films that could be described as Chinese productions. Unfortunately country information alone was insufficient b/c nowadays the movie industry is incredibly globalized and Chinese production companies are associated with all kinds of movies that are not Chinese (like the Mr. Rogers Movie, Once Upon a Time in Hollywood, and Trainwreck). 
 
