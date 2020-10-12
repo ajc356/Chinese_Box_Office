@@ -21,25 +21,15 @@ To begin my analysis, I first had to determine the population of films released 
 
 This gave me a list of 1086 titles with complete entries (a good number missing genre information) – however the extent of data Box Office Mojo offers for each title is somewhat limited,  so from here I turned to a preexisting [Kaggle IMDB dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv) to see if I could glean some additional features. 
 
-Most importantly I wanted to see if I could find a way to filter out films that could be described as Chinese productions. Unfortunately country information alone was insufficient b/c nowadays the movie industry is incredibly globalized and Chinese production companies are associated with all kinds of movies that are not Chinese (like the Mr. Rogers Movie, Once Upon a Time in Hollywood, and Trainwreck). 
-
-So instead I used my domain knowledge as someone who has over 10 years of experience studying Chinese culture, language and politics to develop a set of filters – looking at a combination of country and language  - that would be able to identify whether or not a film associated with China may reasonably be described as a Chinese production --- and I crosschecked this by looking at a number of different sample segments of the database to confirm that nothing too out of the ordinary 
-
-This enabled me to identify 681 of my 1086 films as Chinese productions.
-
-All that said, the IMDB database still missing large portions of data for hundreds of my titles which meant the number of features I was able to analyze was relatively limited. 
-
-Nevertheless, I did a little bit of feature engineering to add some additional features including detailed genre info, whether or not the film was only released in China or had international distribution and what time of year it was released 
-
 **Model** 
 
-After experimenting with several different models I ended up dropping a number of the genre features and limiting my analysis to :
+After experimenting with several different models I ended up dropping a number of the genre features and limiting my analysis to:  
 •	USA gross revenue
 •	Released only in China
 •	Chinese production
 •	Runtime
 •	Length of Release Period
-•	Genres:
+•	Genres:  
 o	Action, Adventure, Animation,  Comedy, Crime, Documentary, Drama, Fantasy, Thriller
 
 And again, my target is Chinese gross revenue.
