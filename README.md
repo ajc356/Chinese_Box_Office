@@ -42,7 +42,7 @@ My target is Chinese gross revenue.
 
 **Results** 
 
-After experimenting with a number of different models, I ultimately found Lasso to be the best – although Lasso and regular linear regression scored very similarly (nearly identical r-squared), when I ran k-fold cross validation, Lasso ultimately produced a marginally better r-squared such that when scored on unseen, holdout test data, my model is able to explain 29.9% of the variation observed in the data. 
+After experimenting with a number of different models, I ultimately found Lasso to be the best – although Lasso and regular linear regression scored very similarly (nearly identical r-squared), when I ran k-fold cross validation, Lasso ultimately produced a marginally better r-squared such that when scored on unseen, holdout test data, my model is able to explain 37% of the variation observed in the data. 
 
 **Conclusions/Implications** 
 
